@@ -20,6 +20,7 @@ I'm just write the instruction
 - `pg_dump` and `psql` available in `PATH`
 - Network access to both PostgreSQL servers
 - Permission to `DROP DATABASE` if `--clean-restore` is used
+- File execute permission `chmod +x backup.{YOUR_SHELL}`
 
 ## Connection string format
 
